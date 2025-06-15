@@ -24,9 +24,9 @@ This project demonstrates how to implement indoor localization using 3 ESP32 dev
 
 ## 📁 Project Structure
 - Create a separate folder for 3 Anchors for ESP32 Devices by using PlatformIO in VS Code
--📁 AnchorA
--📁 AnchorB
--📁 AnchorC
+📁 AnchorA
+📁 AnchorB
+📁 AnchorC
 ---
 ### 1. Upload Firmware to 3 ESP32s
 - Open each Anchor_X folder in VS Code with PlatformIO
